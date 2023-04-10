@@ -21,10 +21,6 @@ spring:
       password: pwd
       port: 27017
 
-info:
-  application:
-    name: api-serie
-
 eureka:
   instance:
     hostname: localhost
