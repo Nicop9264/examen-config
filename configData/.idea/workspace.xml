@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae40e075-4e6f-4801-bed6-42a8db3ad26b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/gateway.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-serie.yml" beforeDir="false" afterPath="$PROJECT_DIR$/api-serie.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
